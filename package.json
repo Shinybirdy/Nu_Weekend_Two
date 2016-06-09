@@ -1,0 +1,15 @@
+{
+  "name": "nu_weekend_2",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "grrr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "shinybirdy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
